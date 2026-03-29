@@ -1,0 +1,5 @@
+Clone yolov5 Repo into your folder
+
+https://github.com/ultralytics/yolov5
+
+copy requirements.txt into main project and install the dependancies
