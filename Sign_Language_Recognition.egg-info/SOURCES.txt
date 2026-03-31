@@ -1,0 +1,8 @@
+setup.py
+SignLanguage/__init__.py
+SignLanguage/utils/__init__.py
+SignLanguage/utils/main_utils.py
+Sign_Language_Recognition.egg-info/PKG-INFO
+Sign_Language_Recognition.egg-info/SOURCES.txt
+Sign_Language_Recognition.egg-info/dependency_links.txt
+Sign_Language_Recognition.egg-info/top_level.txt
