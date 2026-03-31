@@ -148,31 +148,7 @@ Key dependencies include:
 - **NumPy**: Numerical computations
 - **Pillow**: Image handling
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open-source. Feel free to use and modify it for your needs.
-
-## 🙏 Acknowledgments
-
-- [YOLOv5](https://github.com/ultralytics/yolov5) by Ultralytics
-- [Flask](https://flask.palletsprojects.com/)
-- [Bootstrap](https://getbootstrap.com/) for the UI components
-
-## 📧 Contact
-
-- **Author**: Vivek
-- **Email**: vivek.deshmukh@live.com
-- **Repository**: [sign-language-detection](https://github.com/vivekdeshmukhrepos/sign-language-detection)
-
-## 🗂️ Additional Notes
 
 ### Training Your Own Model
 
@@ -190,5 +166,3 @@ To train a custom YOLOv5 model for sign language detection:
 - **CUDA out of memory**: Reduce batch size or use CPU-only mode
 
 ---
-
-**Built with ❤️ for accessibility and inclusion**
